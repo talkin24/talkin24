@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 ### About me
-- Blog: [My Github Blog]https://talkin24.github.io
+- Blog: [My Github Blog] https://talkin24.github.io
+
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=talkin24)](https://github.com/talkin24/github-readme-stats)
 
 <!--
