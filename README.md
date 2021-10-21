@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello 👋
 
 ### About me
 - Blog: [My Github Blog] https://talkin24.github.io
